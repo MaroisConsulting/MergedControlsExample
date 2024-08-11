@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergedControlsExample", "MergedControlsExample\MergedControlsExample.csproj", "{FC98189F-6DA4-45B9-A421-22D28BEB5CF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyToggleButton", "MyToggleButton\MyToggleButton.csproj", "{861E62E8-C2BE-4035-AE75-2F231F934187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCustomControl", "MyCustomControl\MyCustomControl.csproj", "{A324C3DC-7E87-48AE-9AAC-F0D09FEDB1FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC98189F-6DA4-45B9-A421-22D28BEB5CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC98189F-6DA4-45B9-A421-22D28BEB5CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC98189F-6DA4-45B9-A421-22D28BEB5CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC98189F-6DA4-45B9-A421-22D28BEB5CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861E62E8-C2BE-4035-AE75-2F231F934187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861E62E8-C2BE-4035-AE75-2F231F934187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861E62E8-C2BE-4035-AE75-2F231F934187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861E62E8-C2BE-4035-AE75-2F231F934187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A324C3DC-7E87-48AE-9AAC-F0D09FEDB1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A324C3DC-7E87-48AE-9AAC-F0D09FEDB1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A324C3DC-7E87-48AE-9AAC-F0D09FEDB1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A324C3DC-7E87-48AE-9AAC-F0D09FEDB1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67A2E90C-42AB-417F-B749-4C97D6BFB284}
+	EndGlobalSection
+EndGlobal
